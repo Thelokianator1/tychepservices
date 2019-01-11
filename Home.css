@@ -1,7 +1,9 @@
 .title {
 color: teal;
+  size: 60px;
 }
 
 .directory {
 color: gray;
+  size: 15px
 }
